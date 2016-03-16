@@ -1,3 +1,3 @@
 # Suresh
 testing
-iam parctiseing Angular js
+iam parcticeing Angular js
